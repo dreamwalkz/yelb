@@ -2,7 +2,7 @@
 
 Voting UI Frontend, Application Server, Database Server and Caching Service using Redis.app deployed on kubenetes
 
-<img src="https://github.com/dreamwalkz/yelb/blob/main/screenshot.png">
+<img src="https://github.com/dreamwalkz/yelb/blob/main/showcase.png">
 
 NodePort Deployment:
 
